@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notifications>
+    <!-- CONTOH FORMAT NOTIFIKASI -->
+    <!-- 
+    icon: FontAwesome icon name (tanpa prefix 'fa-')
+    color: Hex color code atau color name
+    title: Judul notifikasi (max 60 karakter)
+    text: Isi notifikasi (max 80 karakter)
+    -->
+
+    <!-- NOTIFIKASI BOOKING -->
+    <notification>
+        <icon>check-circle</icon>
+        <color>#4caf50</color>
+        <title>✓ Booking Terkonfirmasi</title>
+        <text>Andi S. - Site visit hari ini jam 14:00</text>
+    </notification>
+
+    <!-- NOTIFIKASI CLOSING -->
+    <notification>
+        <icon>handshake</icon>
+        <color>#2196f3</color>
+        <title>🎉 Closing Berhasil!</title>
+        <text>Siti N. - Aset properti sudah MILIK Anda</text>
+    </notification>
+
+    <!-- NOTIFIKASI JANJI TEMU -->
+    <notification>
+        <icon>calendar-check</icon>
+        <color>#ff9800</color>
+        <title>📅 Janji Ditegaskan</title>
+        <text>Rudi H. - Presentasi cicilan besok 10:00</text>
+    </notification>
+
+    <!-- NOTIFIKASI PEMBAYARAN -->
+    <notification>
+        <icon>credit-card</icon>
+        <color>#4caf50</color>
+        <title>💰 Pembayaran Diterima</title>
+        <text>Budi S. - DP Rp 5 juta + bonus eksklusif</text>
+    </notification>
+
+    <!-- NOTIFIKASI HARGA NAIK -->
+    <notification>
+        <icon>arrow-up</icon>
+        <color>#ff6b6b</color>
+        <title>📈 Nilai Aset Naik!</title>
+        <text>Harga naik Rp 50 juta. Segera amankan sekarang</text>
+    </notification>
+
+    <!-- NOTIFIKASI BONUS -->
+    <notification>
+        <icon>gift</icon>
+        <color>#9c27b0</color>
+        <title>🎁 Bonus Terbatas!</title>
+        <text>Gratis layout 3D untuk 20 orang lagi hari ini</text>
+    </notification>
+
+    <!-- NOTIFIKASI CICILAN -->
+    <notification>
+        <icon>percent</icon>
+        <color>#00bcd4</color>
+        <title>💳 Cicilan Disetujui</title>
+        <text>Dewi Lestari - Tenor 15 tahun, cicilan Rp 6.5jt</text>
+    </notification>
+
+    <!-- NOTIFIKASI SURVEY -->
+    <notification>
+        <icon>map-marker-alt</icon>
+        <color>#4caf50</color>
+        <title>📍 Survey Lokasi Selesai</title>
+        <text>Ahmad R. - Lokasi sudah disetujui, siap tanda tangan</text>
+    </notification>
+
+    <!-- NOTIFIKASI PROMO -->
+    <notification>
+        <icon>tag</icon>
+        <color>#ff6b6b</color>
+        <title>🏷️ Promo Flash Sale!</title>
+        <text>Diskon DP 10 juta, berlaku 24 jam lagi!</text>
+    </notification>
+
+    <!-- NOTIFIKASI REFERRAL -->
+    <notification>
+        <icon>share-alt</icon>
+        <color>#2196f3</color>
+        <title>👥 Bonus Referral Tercatat</title>
+        <text>Sugeng K. - Ajak teman, dapat bonus Rp 2 juta</text>
+    </notification>
+
+    <!-- NOTIFIKASI DOKUMEN SIAP -->
+    <notification>
+        <icon>file-check</icon>
+        <color>#4caf50</color>
+        <title>📄 Dokumen Siap Tanda Tangan</title>
+        <text>Ida Bagus - Semua dokumen sudah disiapkan</text>
+    </notification>
+
+</notifications>
